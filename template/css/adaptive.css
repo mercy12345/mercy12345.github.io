@@ -1,0 +1,188 @@
+@media screen and (max-width:1300px){.main_block{background-size:contain;background-position:center bottom;}
+.main_block .ah2{margin-bottom:400px;}
+}
+@media screen and (max-width:1150px){
+.main_menu ul li ul li .image_block img{max-width:100%;}
+.main_menu ul li ul li .image_block{width:35%;}
+.bottles__page .block .text_block{width:38%;}
+.item__page .image_block{width:45%;}
+#header{font-size:15px;}
+#header .telphone{padding-top:0;width:240px;}
+#header .telphone span{padding-top:0;}
+#header .telphone span span{display:block;}
+#header .telphone a{font-size:30px;}
+.main_menu ul li a{font-size:17px !important;}
+.catalog_menu .block{padding:0 50px;}
+.main_block .ah2{margin-bottom:350px;}
+}
+@media screen and (min-width:1000px){.main_menu nav{display:block !important;}}
+@media screen and (max-width:999px){
+.bottles__page .colors i, .bottles__page .colors em{text-align:left;}
+.pay__page, .review__page{padding-bottom:10px;}
+.main_map .abs_block .ah1{margin-bottom:20px;}
+.main_map{height:auto;}
+.main_map .map_map{display:none !important;}
+.main_map .hid_block{height:350px;display:block;}
+.main_map .abs_block{position:relative;margin-left:0;margin-top:0;left:0;top:0;width:auto;padding-top:0;height:auto;}
+.main_menu ul li ul{display:none !important;}
+.get_price .abs_block p{font-size:18px;line-height:21px;}
+.get_price .abs_block .ah3{font-size:25px;line-height:28px;}
+.bottles__page .colors, .bottles__page .row .gray{text-align:left;}
+.bottles__page .top_block .item{width:11.1111%;}
+.bottles__page .row > div{float:none;width:auto;padding-right:0;margin-bottom:10px;}
+.bottles__page .row{margin-right:0;}
+.bottles__page .block .blu_block .tbc.white{width:45%;}
+.bottles__page .block .blu_block{clear:both;margin:30px auto 0;}
+.bottles__page .block .text_block{float:none;width:auto;}
+.item__page .image_block img{max-height:300px;}
+.item__page .block .tbc.white{width:45%;}
+.item__page .image_block{float:none;width:auto;margin-right:auto;margin-left:auto;width:300px;height:300px;}
+.h1_block h2{font-size:30px;line-height:33px;}
+.contacts__page{font-size:16px;}
+.delivery__page, .review__page{font-size:16px;line-height:22px;}
+.blue_block .zakaz_me{margin-right:0;font-size:16px;}
+.blue_block .text_block{padding-left:0;font-size:18px;line-height:21px;}
+.get_price .row .block{padding-right:20px;}
+.get_price .row .block button{font-size:16px;}
+.get_price .ah2{font-size:18px;margin-bottom:30px;}
+.get_price .row{margin-right:-20px;}
+.new_block .row .block .image_block{height:170px;}
+.new_block .row .block{font-size:16px;line-height:19px;}
+.new_block .row .block .ah2{font-size:18px;line-height:21px;}
+.about_block li:before{top:0;width:25px;background-size:contain;}
+.about_block li{padding-right:100px;padding-left:40px;}
+.results_block .block p, .about_block li{font-size:16px;line-height:19px;}
+.results_block .block .ah2{font-size:30px;}
+.catalog_menu .block .ah2{font-size:18px;line-height:21px;margin-bottom:10px;}
+.catalog_menu .block{padding:0;}
+.btn11{display:block;left:3%;color:#00568e;text-align:center;width:55px;position:relative;}
+.btn11:after{content:'';position:absolute;width:100%;height:11px;top:100%;left:0;background:url(../img/burg.png) no-repeat;background-size:100% 100%;}
+.btn11 span{display:block;font-size:16px;line-height:19px;}
+.btn11 span.upp{font-size:21px;}
+#header .call_me{position:absolute;right:3%;bottom:-45px;}
+#header{padding-top:10px;padding-bottom:10px;margin-bottom:60px;}
+.main_menu{min-height:49px;background:#fff;top:97px;}
+.main_menu ul li a{line-height:40px;}
+.main_menu nav{position:absolute;left:0;width:100%;top:49px;display:none;}
+.main_menu ul{display:block;}
+.main_menu ul li{display:block;border:0;}
+.main_menu ul li:nth-child(6){width:auto;}
+.main_menu ul li:last-child, .main_menu.active ul li:last-child{display:block !important;}
+.main_menu ul li:last-child a{color:#53b441;}
+.main_block .block div.cond{font-size:18px;line-height:21px;padding-top:14px;}
+.main_block .block{height:50px;}
+.main_block .block .button{font-size:20px;line-height:50px;}
+.main_block{background-image:none;}
+.main_block .ah2{margin-bottom:-130px;position:relative;font-size:16px;padding:10px;line-height:21px;}
+.main_block .hid_block{display:block;margin-bottom:-50px;}
+.main_block .hid_block img{display:block;width:100%;}
+.main_block .ah1{font-size:24px;line-height:27px;margin-bottom:30px;}
+.main_menu.active .telphone{display:block;}
+.main_block, .clients_block, .catalog_menu,.results_block,.about_block, .blagodar_block, .new_block, .get_price, .sertif_block{padding-top:30px;padding-bottom:20px;}
+.clients_block .ah1, .catalog_menu .ah1,.results_block .ah1, .about_block .ah1, .blagodar_block .ah1, .get_price .ah1, .new_block .ah1, .sertif_block .ah1, .seo_text h2{font-size:22px;line-height:25px;margin-bottom:20px;}
+.seo_text h3{font-size:18px;line-height:21px;padding-top:10px;}
+.seo_text .inner{padding:10px 0 20px;}
+#footer .contacts{width:auto;margin-top:30px;}
+#footer .ah1{margin-bottom:10px;}
+#footer{height:auto;margin-top:0;padding-bottom:30px;}
+#footer .tb, #footer .tb .tbc{display:block;}
+#subfooter{display:none;}
+body{font-size:14px;line-height:17px;}
+}
+@media screen and (max-width:800px){.bottles__page .row label{margin-bottom:10px;}
+.bottles__page .colors{margin-top:0;}
+.sertif_block .block{width:33.333333%;padding:0 5px;margin-bottom:10px;}
+.sertif_block .block:last-child{display:none;}
+.bottles__page .colors .item{margin-left:0;margin-right:16px;}
+.bottles__page .colors .cond{display:block;margin-bottom:10px;}
+.bottles__page .top_block .item, .catalog_menu .block .left_block .item{width:16.6666%;}
+.pay__page .image_block{float:none;margin-left:auto;margin-right:auto;max-width:370px;width:auto;}
+.region__page .row{margin-right:0;}
+.region__page .row .block{margin-right:0;width:auto;float:none;}
+.otziv_block{margin-bottom:0;}
+.otziv_block button{float:none;margin-top:20px;margin-left:auto;margin-right:auto;}
+.otziv_block .ah1{text-align:center;}
+.otziv_block .left_block{float:none;margin-left:auto;margin-right:auto;width:auto;}
+.contacts__page .block{margin-bottom:25px;}
+.contacts__page .map_block{float:none;margin-right:0;width:auto;margin-bottom:25px;}
+.blue_block .text_block{float:none;width:auto;padding-right:0;margin-bottom:25px;}
+.new_block .row .block .image_block{max-width:320px;margin:0 auto 20px;}
+.new_block .row .block{padding-right:0;float:none;width:auto;margin-bottom:30px;}
+.new_block .row{margin-right:0;}
+.get_price .row .block{width:50%;margin-bottom:20px;}
+.about_block li{padding-right:0;}
+.results_block .block{width:50%;height:122px;margin-bottom:20px;}
+.clients_block .block{margin-bottom:10px;}
+.main_block .ah2{margin-bottom:-100px;}
+.main_block .block div.cond{padding:14px;}
+.main_block .block .button{float:none;position:absolute;width:100%;left:0;bottom:0;}
+.main_block .block{padding-bottom:50px;height:auto;}
+.catalog_menu .block .left_block{float:none;margin-left:auto;margin-right:auto;}
+.catalog_menu .block .right_block{float:none;width:auto;}
+.catalog_menu .block .right_block .item{display:inline-block;vertical-align:top;margin:0 4% 10px;}
+.main_menu{top:218px;}
+#header{padding-top:10px;}
+#header .logo, #header .logo_text{float:none;margin-left:auto;margin-right:auto;text-align:center;}
+#header .logo{width:160px;background-size:100% auto !important;height:75px;position:relative; !important; margin-bottom:10px;}
+#header .logo_text{padding-top:7px;}
+#header .telphone{float:none;width:auto;text-align:center;padding-top:6px;}
+#header .telphone span span{display:none;}
+}
+@media screen and (max-width:650px){
+.item__page .colors > div:first-child{display:block;}
+.item__page .colors{text-align:left !important;}
+.ddd{display:none;}
+.seo_text h2{padding-top:0;}
+.main_map .abs_block .block .ah2, .main_map .abs_block .block{font-size:16px;line-height:19px;}
+.main_map .abs_block .block .ah2, .main_map .abs_block .block p{display:inline;}
+.main_map .abs_block{padding-left:4%;padding-right:4%;}
+.bottles__page .blu_block .tb .tbc > div:last-child{display:none;}
+.bottles__page .blu_block .tb .button, .item__page .block .button{margin-bottom:0;max-width:100%;position:relative;overflow:hidden;line-height:26px;font-size:11px;}
+.results_block .block .ah2{float:left;text-align:left;margin-bottom:0;}
+.bottles__page .row label b{padding:0 6px;}
+.bottles__page .top_block .item, .bottles__page .row label{font-size:18px;}
+.bottles__page .blu_block .tb .ah2 span, .item__page .block .ah2 span{display:inline;font-weight:normal;font-size:8px;}
+.bottles__page .blu_block .tb .price{font-size:11px;line-height:26px;width:25%;text-align:left;}
+.bottles__page .blu_block .tb .ah2, .item__page .block .ah2, .item__page .block .price{font-size:11px;line-height:26px;width:25%;text-align:left;padding-right:5%;}
+.bottles__page .blu_block .tb .ah2, .bottles__page .blu_block .tb .price, .item__page .block .ah2, .item__page .block .price{float:left;}
+.bottles__page .blu_block .tb .tbc, .item__page .block .tbc{padding:5px 8px 5px 7px;height:37px;position:relative;overflow:hidden;box-sizing:border-box;}
+.bottles__page .blu_block .tb, .bottles__page .blu_block .tb .tbc{display:block;width:auto !important;}
+.bottles__page .block .text_block{padding-top:0;padding-right:0;font-size:12px;line-height:16px;}
+.bottles__page .block .text_block .ah1{font-size:21px;line-height:23px;}
+.bottles__page .block .image_block{width:140px;margin-right:10px;}
+.item__page .gray{margin-top:40px;}
+.item__page{padding-bottom:40px;}
+.item__page .colors .item{margin-left:0;margin-right:16px;}
+.item__page .colors > div:first-child{float:none;}
+.item__page .block .tbc.white{width:auto;}
+.item__page .block, .item__page .block .tbc{display:block;}
+.region__page .block{padding-top:80px;height:200px;font-size:30px;margin-top:20px;}
+.clients_block .block img{max-height:50px;}
+.clients_block .block{height:50px;line-height:50px;}
+.sertif_block{text-align:center;}
+.catalog_menu .block .left_block .item, .catalog_menu .block .right_block .item{font-size:18px;}
+.catalog_menu .block .left_block{width:auto;}
+.about_block .image_block{display:none;}
+.about_block .ah1{text-align:center;}
+.results_block .block .ah2{font-size:27px;}
+.results_block .block p{position:relative;overflow:hidden;text-align:left;font-size:15px;padding-left:6px;padding-top:27px;font-family:'Roboto Condensed';}
+.results_block .block{width:auto;height:auto;float:none;margin-bottom:0;}
+.main_block .hid_block{margin-bottom:-10px;}
+.main_block .ah2{margin-bottom:-60px;}
+#footer .inner{border:0 !important;}
+#footer .block ul li{padding-left:0;}
+#footer .block ul li:before{position:relative;display:inline-block;vertical-align:middle;left:auto;top:auto;margin-right:12px;margin-top:-4px;display:none;}
+#footer .contacts .call_me{margin-left:auto;margin-right:auto;}
+#footer .block{float:none;width:auto;margin-bottom:30px;text-align:center;padding-right:0;}
+#footer .contacts{text-align:center;margin-top:0;}
+}
+@media screen and (max-width:600px){}
+@media screen and (max-width:500px){.clients_block .block{height:40px;line-height:40px;}
+.main_map .hid_block{height:250px;}
+.form0_block{width:270px;}
+.contacts__page .map_block{height:300px;}
+.get_price .row .block button{margin-top:0;}
+.get_price .row .block{float:none;width:auto;}
+}
+@media screen and (max-width:400px){.contacts__page .map_block{height:200px;}
+}
